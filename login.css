@@ -1,0 +1,105 @@
+/*Tipo de letra*/
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+/*navbar*/
+.navbar{
+	background-color: #D8BFD8; 
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+	min-height: 90px;
+}
+
+/*color de los link*/
+.nav-link{color: #1a1a1a; font-size: 20px; }
+.nav-link:hover {color:#1E90FF; } /*color de los link al pasar cursor*/
+
+/*logo*/
+.logo-brand{
+	min-width: 110px;
+	max-width: 100px;
+}
+
+
+.content-center{
+
+	text-align: center;
+}
+
+#login{
+	background-image: url('img/log2.jpg');
+
+	background-size: cover;
+	padding-top: 274px;
+	min-height: 790px;
+	color: #ffffff;
+}
+
+.btn2{
+	font-size: 15px;
+	padding: 5px 26px;
+	border-radius: 50px;
+	display: inline-block;
+	margin: 55px 0 25px;
+	margin-top: 30px;
+
+}
+.btn-light{
+	background-color: #FF4500;
+	color: #1a1a1a;
+	border: 2px solid #FF4500;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+
+.member-details i{
+	padding: 0 5px;
+	margin-left:  35px;
+}
+a i{
+	font-size: 20px; color: #000000;
+}
+
+/* secion footer*/
+
+.bg-dark{background-color: #1a1a1a !important;}
+
+#footer{
+	padding: 30px 0;
+	text-align: center;
+}
+#footer a{
+	color: #ffffff;
+	padding: 10px 15px;
+}
+
+#footer a:hover{
+	color: #FF8C00;
+}
+
+
+#footer .list-inline .list-inline-item{
+	padding: 10px 5px;
+}
+
+.list-inline-item i{
+	font-size: 20px;
+	background-color: #ffffff;
+	border-radius: 50%;
+}
+ .list-inline-item i:hover{
+	color: #4169E1;
+	
+}
+.src img, aunar.png{
+	font-size: 200px;
+}
+
+.col-sm-3{
+	left: 420px;
+	border-radius: 50px;
+
+}

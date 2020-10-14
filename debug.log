@@ -1,0 +1,3 @@
+[1013/155507.501:ERROR:settings.cc(430)] Settings version is not 5
+[1013/160507.518:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1013/215703.554:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
